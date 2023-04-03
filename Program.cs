@@ -7,7 +7,5 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-var simulate = new ConsoleMsg();
-var simulate2 = new GameEvents();
-simulate.WelcomeMsg();
-simulate2.CheckAnswer();
+var test = new Game();
+test.PlayGame();

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josh.thalappillil\\OneDrive - Datacom\\Documents\\GitHub\\Percipio-Learning\\C#\\Introduction to C#\\Other Projects\\GuessGame\\GuessGame.csproj",
+      "projectUniqueName": "C:\\Users\\josh.thalappillil\\OneDrive - Datacom\\Documents\\GitHub\\GuessGame\\GuessGame.csproj",
       "projectName": "GuessGame",
-      "projectPath": "C:\\Users\\josh.thalappillil\\OneDrive - Datacom\\Documents\\GitHub\\Percipio-Learning\\C#\\Introduction to C#\\Other Projects\\GuessGame\\GuessGame.csproj",
+      "projectPath": "C:\\Users\\josh.thalappillil\\OneDrive - Datacom\\Documents\\GitHub\\GuessGame\\GuessGame.csproj",
       "packagesPath": "C:\\Users\\josh.thalappillil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josh.thalappillil\\OneDrive - Datacom\\Documents\\GitHub\\Percipio-Learning\\C#\\Introduction to C#\\Other Projects\\GuessGame\\obj\\",
+      "outputPath": "C:\\Users\\josh.thalappillil\\OneDrive - Datacom\\Documents\\GitHub\\GuessGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
