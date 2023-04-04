@@ -23,8 +23,8 @@ namespace GuessGame
 
             while (true)
             {
-                _userGuess = _gameEvents.getUserAnswer();
-                _userInputCount = _gameEvents.getInputCount();
+                _userGuess = _gameEvents.GetUserAnswer();
+                _userInputCount = _gameEvents.GetInputCount();
 
                 if (_userGuess == _gameEvents.RandomNum) 
                 {

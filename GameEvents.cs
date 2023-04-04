@@ -19,13 +19,13 @@ namespace GuessGame
             return RandomNum;
         }
 
-        public int getUserAnswer()
+        public int GetUserAnswer()
         {
             int UserInput;
             UserInput = Convert.ToInt32(Console.ReadLine());
             return UserInput;
         }
-        public int getInputCount()
+        public int GetInputCount()
         {
             InputCount++;
             return InputCount;
